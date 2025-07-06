@@ -1,4 +1,4 @@
-# FeelSafe: AI-Powered Mental Health Companion
+# FeelSafe: AI-Powered Mental Health Companion (in progress)
 
 🚀 Semi Finalist – Healthkathon BPJS Kesehatan RI  
 🏆 Ranked 26th out of 359 participating teams  
