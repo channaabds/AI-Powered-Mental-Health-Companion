@@ -1,0 +1,13 @@
+Timestamp,Predicted Emotion,Confidence
+2024-11-01 10:55:23,Fear,0.8521362543106079
+2024-11-01 10:59:00,Fear,0.8124064803123474
+2024-11-01 14:10:53,Fear,0.6707161664962769
+2024-11-01 14:11:55,Fear,0.5410718321800232
+2024-11-01 17:10:54,Fear,0.5518754124641418
+2024-11-01 17:17:14,Fear,0.8583549857139587
+2024-11-01 18:22:58,Fear,89.6%,Fear:89.6%; Happy:8.1%; Disgust:2.1%; Surprise:0.1%; Anger:0.0%; Sad:0.0%; Neutral:0.0%
+2024-11-01 18:29:08,Happy,62.4%,Happy:62.4%; Fear:29.1%; Disgust:7.7%; Anger:0.4%; Surprise:0.3%; Sad:0.2%; Neutral:0.0%
+2024-11-01 18:29:33,Fear,72.9%,Fear:72.9%; Happy:14.8%; Disgust:11.6%; Anger:0.3%; Sad:0.2%; Surprise:0.2%; Neutral:0.0%
+2024-11-01 18:46:42,Fear,79.9%,Fear:79.9%; Happy:12.6%; Disgust:5.0%; Anger:2.4%; Surprise:0.0%; Sad:0.0%; Neutral:0.0%
+2024-11-01 20:05:13,Fear,43.0%,Fear:43.0%; Disgust:29.9%; Surprise:19.2%; Sad:4.9%; Happy:2.5%; Neutral:0.5%; Anger:0.1%
+2024-11-01 20:05:49,Fear,64.3%,Fear:64.3%; Sad:20.3%; Disgust:9.0%; Surprise:4.2%; Neutral:1.3%; Happy:0.8%; Anger:0.0%
