@@ -89,7 +89,7 @@ to detect the user's emotional state, and respond using a custom Retrieval-Augme
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/channaabds/AI-Powered-Mental-Health-Companion/blob/main/dasign%20FeelSafe/acces%20permision%20camera%20for%20VC.png?raw=true" width="400"/>
+      <img src="https://github.com/channaabds/AI-Powered-Mental-Health-Companion/blob/main/dasign%20FeelSafe/acces%20permisian%20camera%20for%20VC.png" width="400"/>
       <br/>Access Camera Permission
     </td>
     <td align="center">
